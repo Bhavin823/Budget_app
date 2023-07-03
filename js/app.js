@@ -89,7 +89,7 @@ class UI {
 
     <div class="expense-icons list-item">
 
-     <a href="#" class="edit-icon mx-2" data-id="${expense.id}">
+     <a href="#" class="edit-icon mx-2" data-id="$${expense.id}">
       <i class="fas fa-edit"></i>
      </a>
      <a href="#" class="delete-icon" data-id="${expense.id}">
